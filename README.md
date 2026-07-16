@@ -1,1 +1,1 @@
-# DevOps_practice
+CI/CD demo project
